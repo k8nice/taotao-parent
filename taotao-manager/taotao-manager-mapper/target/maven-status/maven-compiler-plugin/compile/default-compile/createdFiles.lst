@@ -1,0 +1,11 @@
+com\nice\mapper\TbItemParamItemMapper.class
+com\nice\mapper\TbOrderItemMapper.class
+com\nice\mapper\TbItemCatMapper.class
+com\nice\mapper\TbOrderMapper.class
+com\nice\mapper\TbUserMapper.class
+com\nice\mapper\TbItemMapper.class
+com\nice\mapper\TbContentCategoryMapper.class
+com\nice\mapper\TbOrderShippingMapper.class
+com\nice\mapper\TbItemDescMapper.class
+com\nice\mapper\TbContentMapper.class
+com\nice\mapper\TbItemParamMapper.class
