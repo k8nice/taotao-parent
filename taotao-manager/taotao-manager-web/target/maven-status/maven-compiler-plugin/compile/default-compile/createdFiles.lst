@@ -5,4 +5,6 @@ com\nice\controller\ItemParamController.class
 com\nice\controller\ItemParamItemController.class
 com\nice\controller\PageController.class
 com\nice\controller\ItemController.class
+com\nice\controller\ContentCategoryController.class
 com\nice\controller\PictureController.class
+com\nice\controller\ContentController.class
