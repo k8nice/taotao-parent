@@ -29,9 +29,9 @@ public class IndexController {
         return "index";
     }
 
-    @RequestMapping(value = "/httpclient/post",method = RequestMethod.POST,produces = MediaType.APPLICATION_JSON_VALUE+";charset=utf-8")
+    @RequestMapping(value = "/httpclient/post",method = RequestMethod.POST,produces = MediaType.TEXT_PLAIN_VALUE+";charset=utf-8")
     @ResponseBody
     public String testPost(String username,String password){
-        return "{username:" + username + ",password:" + password + "}";
+        return "username:" + username + ",password:" + password ;
     }
 }
