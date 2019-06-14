@@ -8,12 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="taotao-manager-web" />
         <module name="taotao-manager-mapper" />
-        <module name="taotao-rest" />
+        <module name="taotao-manager-pojo" />
         <module name="taotao-common" />
         <module name="taotao-portal" />
-        <module name="taotao-manager-pojo" />
+        <module name="taotao-rest" />
+        <module name="taotao-search" />
         <module name="taotao-manager-service" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="TypeScriptCompiler">
+    <option name="recompileOnChanges" value="true" />
+    <option name="typeScriptCompilerParams" value="--sourceMap true" />
+    <option name="useConfig" value="true" />
   </component>
 </project>
